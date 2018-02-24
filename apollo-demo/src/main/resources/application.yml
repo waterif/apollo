@@ -2,4 +2,4 @@ apollo:
   bootstrap:
     enabled: true
     # will inject 'application' and 'FX.apollo' namespaces in bootstrap phase
-    namespaces: application,FX.apollo
+    namespaces: TEST2.ucadmin

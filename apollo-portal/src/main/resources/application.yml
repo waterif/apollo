@@ -8,7 +8,7 @@ server:
   port: 8080
   
 logging:
-  file: /opt/logs/100003173/apollo-portal.log
+  file: /var/log/portal/apollo-portal.log
 
 endpoints:
   health:
